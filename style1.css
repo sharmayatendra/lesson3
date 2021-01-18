@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Open+Sans:wght@400;700&display=swap');
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+}
+/* h1 {
+    text-align: center;
+    margin-top: 4rem;
+}
+h4 {
+    text-align: center;
+   
+    margin: auto;
+} */
+.pic-img {
+    padding: 2rem 1rem;
+    width: 500px;
+    display: block;
+    margin: auto;
+} 
+.container-center {
+    max-width: 600px;
+    padding-bottom: 1rem;
+    margin: auto;
+}
