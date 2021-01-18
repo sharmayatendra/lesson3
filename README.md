@@ -1,2 +1,2 @@
-# lesson3
+# portfolio
 website to showcase my skill & portfolio
