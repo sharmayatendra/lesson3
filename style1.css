@@ -19,7 +19,17 @@ h4 {
     margin: auto;
 } 
 .container-center {
-    max-width: 600px;
-    padding-bottom: 1rem;
-    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    width: 50%;
+}
+
+li {
+    list-style: none;
+    margin: 0.2rem;
 }
